@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "463419552103",
+    "firebase_url": "https://inclass13-3a13d.firebaseio.com",
+    "project_id": "inclass13-3a13d",
+    "storage_bucket": "inclass13-3a13d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463419552103:android:77db726fc98e7013",
+        "android_client_info": {
+          "package_name": "com.example.teja.inclass13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463419552103-itip44140o41kd3s6lq1oli709kis74h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teja.inclass13",
+            "certificate_hash": "0dbdb05098759f88831d545070bb38484f105531"
+          }
+        },
+        {
+          "client_id": "463419552103-co93tk1rljlnts1n1sug1hc6arb1kadd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrandpIitvCZKJo61oSVCvPRBRvXEXSEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463419552103-co93tk1rljlnts1n1sug1hc6arb1kadd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
